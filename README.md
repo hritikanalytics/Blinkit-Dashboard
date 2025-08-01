@@ -22,19 +22,6 @@ This project is an interactive **Power BI dashboard** designed to analyze and vi
 - **📈 Trend Analysis**: Multi-year sales performance tracking showing growth patterns from 2012-2022
 - **🔍 Interactive Filters**: Dynamic filtering capabilities by outlet location, outlet size, and item type for customized analysis
 
-## 🎥 Demo
-
-### Dashboard Screenshots
-<div align="center">
-  <img src="screenshots/blinkit-dashboard-main.png" alt="Blinkit Sales Dashboard" width="800">
-  <p><em>Main dashboard showing sales overview and key metrics</em></p>
-</div>
-
-<div align="center">
-  <img src="screenshots/outlet-analysis.png" alt="Outlet Analysis" width="600">
-  <p><em>Detailed outlet performance and category analysis</em></p>
-</div>
-
 ## 🛠️ Installation
 
 ### Prerequisites
